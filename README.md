@@ -4,4 +4,6 @@ Template to create a Restuf API. Contains all of the necessary methods (Get, Put
 
 ![](image.png)
 
-Install dependencies using sudo npm i inside the terminal, and change the schema and other database references in the code.
+Install dependencies using sudo npm i inside the terminal. 
+Change the schema info, collection calls, params, body parser requests, and other database references in the code.
+Create your API.
