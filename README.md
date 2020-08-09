@@ -2,9 +2,10 @@
 
 Node.js template for the basic structure of a Restful API. Contains all of the necessary methods (Get, Post, Put, Patch, Delete) to interact with the API database.
 
-![](image.png)
+- Install dependencies using the following code in the terminal:
+```
+npm install. 
+```
+- Change the schema info, collection calls, params, requests, and other database references in the code.
 
-- Install dependencies using sudo npm i. 
-- Change the schema info, collection calls, params, body parser requests, and other database references in the code.
-- Create your API
 
